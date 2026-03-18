@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="selenium" />
+          <option value="pytest" />
+          <option value="pytest-html" />
+          <option value="pytest-xdist" />
+          <option value="webdriver-manager" />
+          <option value="loguru" />
+          <option value="allure-pytest" />
+          <option value="allure-behave" />
+          <option value="allure-python-commons" />
+          <option value="apipkg" />
+          <option value="Appium-Python-Client" />
+          <option value="astor" />
+          <option value="async-generator" />
+          <option value="atomicwrites" />
+          <option value="attrs" />
+          <option value="behave" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="chardet" />
+          <option value="colorama" />
+          <option value="configparser" />
+          <option value="crayons" />
+          <option value="cryptography" />
+          <option value="et-xmlfile" />
+          <option value="execnet" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="openpyxl" />
+          <option value="outcome" />
+          <option value="packaging" />
+          <option value="parse" />
+          <option value="parse-type" />
+          <option value="pluggy" />
+          <option value="py" />
+          <option value="pycparser" />
+          <option value="pyOpenSSL" />
+          <option value="pyparsing" />
+          <option value="pytest-ast-transformer" />
+          <option value="pytest-forked" />
+          <option value="pytest-metadata" />
+          <option value="pytest-soft-assertions" />
+          <option value="requests" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="sortedcontainers" />
+          <option value="texttable" />
+          <option value="toml" />
+          <option value="trio" />
+          <option value="trio-websocket" />
+          <option value="urllib3" />
+          <option value="wsproto" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
