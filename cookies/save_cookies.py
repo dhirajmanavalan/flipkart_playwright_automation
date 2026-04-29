@@ -1,7 +1,7 @@
 import pickle
 from playwright.sync_api import sync_playwright
 
-COOKIE_PATH = r"C:\Users\dhira\PycharmProjects\Flipkart_Playwright_Automation\cookies\flipkart_cookies.pkl"
+COOKIE_PATH = r"C:\Users\dhira\flipkart_playwright_automation\cookies\flipkart_cookies.pkl"
 
 with sync_playwright() as p:
 

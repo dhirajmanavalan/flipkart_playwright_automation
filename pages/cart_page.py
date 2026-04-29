@@ -9,6 +9,6 @@ class CartPage(BasePage):
         pages = self.page.context.pages
         return pages[-1]
 
-    # def add_to_cart(self):
-    #     self.page.locator(self.add_to_cart_btn).wait_for()
-    #     self.page.locator(self.add_to_cart_btn).click()
+    def add_to_cart(self):
+        self.page.locator(self.add_to_cart_btn).wait_for()
+        self.page.locator(self.add_to_cart_btn).click()

@@ -7,7 +7,7 @@ class CookieConfig:
 
     def load_cookie(self):
 
-        COOKIE_PATH = r"C:\Users\dhira\PycharmProjects\Flipkart_Playwright_Automation\cookies\flipkart_cookies.pkl"
+        COOKIE_PATH = r"C:\Users\dhira\flipkart_playwright_automation\cookies\flipkart_cookies.pkl"
 
         cookies = pickle.load(open(COOKIE_PATH, "rb"))
 
